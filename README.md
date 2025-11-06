@@ -16,7 +16,3 @@ Analysis of salary patterns across different education levels, academic programs
 - Salary prediction models
 - Cross-validation strategies
 - Model performance evaluation
-
-## Installation
-```bash
-pip install -r requirements.txt
