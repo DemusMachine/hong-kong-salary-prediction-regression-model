@@ -9,10 +9,3 @@ Analysis of salary patterns across different education levels, academic programs
 ## Datasets
 1. **Hong Kong Salary Data**: Academic year, level of study, program category, and average annual salary
 2. **General Salary Data**: Age, gender, education level, job title, years of experience, and salary
-
-## Key Features
-- Data preprocessing and cleaning
-- Exploratory data analysis
-- Salary prediction models
-- Cross-validation strategies
-- Model performance evaluation
